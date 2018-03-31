@@ -1,2 +1,2 @@
-## Welcome to GitHub Pages
+Books collection with Google book search
 
